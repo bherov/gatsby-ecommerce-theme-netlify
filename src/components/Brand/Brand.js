@@ -11,7 +11,7 @@ const Brand = (props) => {
       onClick={() => navigate('/')}
     >
       {/* <h4>SYDNEY</h4> */}
-      <h4>Quick Shop</h4>
+      <h4>Hey Shop</h4>
     </div>
   );
 };
